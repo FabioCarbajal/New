@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1494605482 source:d:\vectores\vectores\main.cpp
+	<iostream>
+	"vector.h"
+
+1494604219 source:d:\vectores\vectores\src\point.cpp
+	"Point.h"
+	<iostream>
+
+1494602917 d:\vectores\vectores\include\point.h
+
+1494606006 source:d:\vectores\vectores\src\vector.cpp
+	"vector.h"
+	<iostream>
+	<math.h>
+
+1494604816 d:\vectores\vectores\include\vector.h
+	"Point.h"
+
