@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1495141101 source:d:\proyectos\complejos\main.cpp
+	<iostream>
+	"Complejo .h"
+
+1495141092 d:\proyectos\complejos\include\complejo .h
+
+1495140314 source:d:\proyectos\complejos\src\complejo .cpp
+	<iostream>
+	"Complejo .h"
+
