@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1495822501 source:c:\users\alumno-g\desktop\clase persona\main.cpp
+	<iostream>
+	"Gerente.h"
+	"Persona.h"
+	"Conserje.h"
+
+1495819952 c:\users\alumno-g\desktop\clase persona\include\gerente.h
+	"Persona.h"
+	<iostream>
+
+1495821625 c:\users\alumno-g\desktop\clase persona\include\persona.h
+	<string.h>
+	<iostream>
+	"Birthday.h"
+
+1495821738 source:c:\users\alumno-g\desktop\clase persona\src\birthday.cpp
+	"Birthday.h"
+
+1495822197 source:c:\users\alumno-g\desktop\clase persona\src\conserje.cpp
+	"Conserje.h"
+
+1495820117 source:c:\users\alumno-g\desktop\clase persona\src\gerente.cpp
+	"Gerente.h"
+
+1495822533 source:c:\users\alumno-g\desktop\clase persona\src\persona.cpp
+	"Persona.h"
+	<string.h>
+	<iostream>
+
+1495821430 c:\users\alumno-g\desktop\clase persona\include\birthday.h
+	<iostream>
+
+1495822197 c:\users\alumno-g\desktop\clase persona\include\conserje.h
+	"Persona.h"
+	<iostream>
+
