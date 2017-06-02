@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1496418722 source:c:\users\alumno-g\desktop\avion\main.cpp
+	<iostream>
+	"Torre.h"
+
+1496418722 c:\users\alumno-g\desktop\avion\include\torre.h
+	"Avion.h"
+	<vector>
+	"A1.h"
+	"A2.h"
+
+1496418782 c:\users\alumno-g\desktop\avion\include\avion.h
+	<iostream>
+
+1496418917 c:\users\alumno-g\desktop\avion\include\a1.h
+	"Avion.h"
+
+1496418917 c:\users\alumno-g\desktop\avion\include\a2.h
+
+1496418793 source:c:\users\alumno-g\desktop\avion\src\a1.cpp
+
+1496418793 source:c:\users\alumno-g\desktop\avion\src\a2.cpp
+
+1496418801 source:c:\users\alumno-g\desktop\avion\src\avion.cpp
+
+1496418917 source:c:\users\alumno-g\desktop\avion\src\torre.cpp
+	"Torre.h"
+
